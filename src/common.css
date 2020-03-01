@@ -1,0 +1,28 @@
+/* Размер */
+:root {
+	--x1: 4px;
+	--x2: 8px;
+	--x3: 12px;
+	--x4: 16px;
+	--x5: 20px;
+	--x6: 24px;
+	--x10: 40px;
+	--x14: 56px;
+}
+
+/* Цвета */
+
+:root {
+	--text-color: #333333;
+}
+
+/* Типография */
+
+h1 {
+	font-size: 24px;
+	line-height: 28px;
+	font-style: normal;
+	font-weight: 900;
+	color: var(--text-color);
+	margin: 0;
+}

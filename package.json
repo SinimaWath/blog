@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Tarasov Vladislav Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
